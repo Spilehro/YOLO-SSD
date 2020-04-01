@@ -1,0 +1,160 @@
+epoch 11 started.
+[12] time: 93.954819 train loss: 0.364324
+ epoch 12 started.
+[13] time: 183.284931 train loss: 0.326730
+ epoch 13 started.
+[14] time: 273.487223 train loss: 0.317124
+ epoch 14 started.
+[15] time: 361.096006 train loss: 0.309185
+ epoch 15 started.
+[16] time: 450.354368 train loss: 0.294726
+ epoch 16 started.
+[17] time: 539.874615 train loss: 0.289242
+ epoch 17 started.
+[18] time: 628.705120 train loss: 0.283699
+ epoch 18 started.
+[19] time: 716.690406 train loss: 0.275550
+ epoch 19 started.
+[20] time: 805.246722 train loss: 0.264429
+ epoch 20 started.
+[21] time: 898.234511 train loss: 0.260436
+ epoch 21 started.
+[22] time: 986.488128 train loss: 0.251552
+ epoch 22 started.
+[23] time: 1073.303671 train loss: 0.242421
+ epoch 23 started.
+[24] time: 1163.697042 train loss: 0.239037
+ epoch 24 started.
+[25] time: 1253.186122 train loss: 0.234769
+ epoch 25 started.
+[26] time: 1352.285557 train loss: 0.226410
+ epoch 26 started.
+[27] time: 1443.865936 train loss: 0.225068
+ epoch 27 started.
+[28] time: 1531.432392 train loss: 0.219814
+ epoch 28 started.
+[29] time: 1620.696550 train loss: 0.213077
+ epoch 29 started.
+[30] time: 1708.693241 train loss: 0.208905
+ epoch 30 started.
+[31] time: 1799.489899 train loss: 0.204599
+ epoch 31 started.
+[32] time: 1887.231531 train loss: 0.200754
+ epoch 32 started.
+[33] time: 1977.502116 train loss: 0.197603
+ epoch 33 started.
+[34] time: 2067.785858 train loss: 0.190630
+ epoch 34 started.
+[35] time: 2157.197053 train loss: 0.188236
+ epoch 35 started.
+[36] time: 2246.513032 train loss: 0.181857
+ epoch 36 started.
+[37] time: 2336.379404 train loss: 0.178999
+ epoch 37 started.
+[38] time: 2426.285407 train loss: 0.174378
+ epoch 38 started.
+[39] time: 2514.212709 train loss: 0.170706
+ epoch 39 started.
+[40] time: 2602.691473 train loss: 0.170226
+ epoch 40 started.
+[41] time: 2695.533819 train loss: 0.165676
+ epoch 41 started.
+[42] time: 2785.279833 train loss: 0.163191
+ epoch 42 started.
+[43] time: 2872.141737 train loss: 0.161706
+ epoch 43 started.
+[44] time: 2962.407237 train loss: 0.154606
+ epoch 44 started.
+[45] time: 3052.207729 train loss: 0.155230
+ epoch 45 started.
+[46] time: 3152.661684 train loss: 0.152775
+ epoch 46 started.
+[47] time: 3244.997568 train loss: 0.149174
+ epoch 47 started.
+[48] time: 3332.888176 train loss: 0.146093
+ epoch 48 started.
+[49] time: 3420.418721 train loss: 0.143488
+ epoch 49 started.
+[50] time: 3509.923208 train loss: 0.139862
+ epoch 50 started.
+[51] time: 3600.512309 train loss: 0.137732
+ epoch 51 started.
+[52] time: 3689.296540 train loss: 0.139278
+ epoch 52 started.
+[53] time: 3776.879448 train loss: 0.137871
+ epoch 53 started.
+[54] time: 3866.557589 train loss: 0.133673
+ epoch 54 started.
+[55] time: 3955.354856 train loss: 0.132239
+ epoch 55 started.
+[56] time: 4043.771719 train loss: 0.125956
+ epoch 56 started.
+[57] time: 4131.826060 train loss: 0.129113
+ epoch 57 started.
+[58] time: 4221.725898 train loss: 0.124649
+ epoch 58 started.
+[59] time: 4310.396971 train loss: 0.125927
+ epoch 59 started.
+[60] time: 4399.200768 train loss: 0.126772
+ epoch 60 started.
+[61] time: 4489.950779 train loss: 0.121326
+ epoch 61 started.
+[62] time: 4579.008471 train loss: 0.119309
+ epoch 62 started.
+[63] time: 4667.346925 train loss: 0.118700
+ epoch 63 started.
+[64] time: 4756.796103 train loss: 0.118660
+ epoch 64 started.
+[65] time: 4845.741131 train loss: 0.118032
+ epoch 65 started.
+[66] time: 4945.436715 train loss: 0.112983
+ epoch 66 started.
+[67] time: 5038.111331 train loss: 0.113344
+ epoch 67 started.
+[68] time: 5126.369404 train loss: 0.114334
+ epoch 68 started.
+[69] time: 5215.645615 train loss: 0.112147
+ epoch 69 started.
+[70] time: 5304.107242 train loss: 0.107211
+ epoch 70 started.
+[71] time: 5394.486978 train loss: 0.109111
+ epoch 71 started.
+[72] time: 5483.307525 train loss: 0.108365
+ epoch 72 started.
+[73] time: 5571.946670 train loss: 0.105435
+ epoch 73 started.
+[74] time: 5661.209162 train loss: 0.104285
+ epoch 74 started.
+[75] time: 5750.481182 train loss: 0.106571
+ epoch 75 started.
+[76] time: 5839.370902 train loss: 0.104663
+ epoch 76 started.
+[77] time: 5928.377206 train loss: 0.102499
+ epoch 77 started.
+[78] time: 6016.246138 train loss: 0.098892
+ epoch 78 started.
+[79] time: 6103.778169 train loss: 0.102149
+ epoch 79 started.
+[80] time: 6192.545531 train loss: 0.101848
+ epoch 80 started.
+[81] time: 6284.623904 train loss: 0.095499
+ epoch 81 started.
+[82] time: 6372.199963 train loss: 0.098039
+ epoch 82 started.
+[83] time: 6459.512823 train loss: 0.101265
+ epoch 83 started.
+[84] time: 6548.665346 train loss: 0.097689
+ epoch 84 started.
+[85] time: 6638.784866 train loss: 0.097611
+ epoch 85 started.
+[86] time: 6737.866922 train loss: 0.095924
+ epoch 86 started.
+[87] time: 6831.610077 train loss: 0.091608
+ epoch 87 started.
+[88] time: 6919.569504 train loss: 0.089688
+ epoch 88 started.
+[89] time: 7008.113624 train loss: 0.089517
+ epoch 89 started.
+[90] time: 7096.435841 train loss: 0.092599
+ epoch 90 started.
+[91] time: 7186.420407 train loss: 0.088995
